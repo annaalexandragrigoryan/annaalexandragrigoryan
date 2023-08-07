@@ -24,4 +24,4 @@ I'm a data scientist passionate about extracting insights from complex datasets.
 
 ## Let's Connect
 
-Reach out on [LinkedIn](https://www.linkedin.com/in/annaalexandragrigoryan/) or [Twitter](https://twitter.com/your_twitter_handle). Excited to collaborate and share insights!
+Reach out on [LinkedIn](https://www.linkedin.com/in/annaalexandragrigoryan/) or Email: anna.alexandra.grigoryan@gmail.com. Excited to collaborate and share insights!
