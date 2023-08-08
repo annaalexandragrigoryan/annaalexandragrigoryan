@@ -25,3 +25,6 @@ I'm a data scientist passionate about extracting insights from complex datasets.
 ## Let's Connect
 
 Reach out on [LinkedIn](https://www.linkedin.com/in/annaalexandragrigoryan/) or at anna.alexandra.grigoryan@gmail.com. Excited to collaborate and share insights!
+
+## Continue Reading
+Follow me on [Medium](https://thegrigorian.medium.com) to get more insight.
