@@ -20,7 +20,7 @@ I'm a data scientist passionate about extracting insights from complex datasets.
 
 - [NLPExpress](https://github.com/annaalexandragrigoryan/NLPExpress) 
 - [MLExpress](https://github.com/annaalexandragrigoryan/MLExpress)
-- ...
+- [MLOps101](https://github.com/annaalexandragrigoryan/MLOps101)
 
 ## Let's Connect
 
