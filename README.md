@@ -21,10 +21,11 @@ I'm a data scientist passionate about extracting insights from complex datasets.
 - [NLPExpress](https://github.com/annaalexandragrigoryan/NLPExpress) 
 - [MLExpress](https://github.com/annaalexandragrigoryan/MLExpress)
 - [MLOps101](https://github.com/annaalexandragrigoryan/MLOps101)
+- [Tensorflow Advanced](https://github.com/annaalexandragrigoryan/TensorflowAdvanced)
 
 ## Let's Connect
 
-Reach out on [LinkedIn](https://www.linkedin.com/in/annaalexandragrigoryan/) or at anna.alexandra.grigoryan@gmail.com. Excited to collaborate and share insights!
+Reach out at anna.alexandra.grigoryan@gmail.com. Excited to collaborate and share insights!
 
 ## Continue Reading
 Follow me on [Medium](https://thegrigorian.medium.com) to get more insight.
